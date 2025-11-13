@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi! 👋 I'm Anika Fariha ##
+I’m a graduate CSE student at BRAC University, passionate about building impactful projects for healthcare and conducting research in the following fields:
 
-<!--
-**Anika-Fariha/anika-fariha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI in healthcare
+Neuromorphic Computing
+Computer Vision
+Medical Imaging
 
-Here are some ideas to get you started:
+**Feel free to reach out to me for research queries or collaborations at anikafariha025@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills & Technologies
+
+Languages:  Python, C, JavaScript, TypeScript, Java
+Frameworks & Tools: MVC, MERN Stack, GIT, Docker, Linux
+Databases: MySQL, MONGODB, SQLITE
+
+Current projects: MediAI which combines AI and backend development where I built a Flask-based backend that integrates ML model to analyze patient medical reports automatically. The system also used NLP techniques NER to extract medical terms from uploaded reports, and a classification model trained on health datasets to predict possible disease categories.
+
+- ⚡ Fun fact: I'm a huge fan of Gossip Girls and can quote every line from it. 
