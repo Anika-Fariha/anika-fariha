@@ -1,10 +1,10 @@
 ## Hi! 👋 I'm Anika Fariha ##
 I’m a graduate CSE student at BRAC University, passionate about building impactful projects for healthcare and conducting research in the following fields:
 
-AI in healthcare
-Neuromorphic Computing
-Computer Vision
-Medical Imaging
+- AI in healthcare, education
+- Neuromorphic Computing
+- Computer Vision
+- Medical Imaging
 
 **Feel free to reach out to me for research queries or collaborations at anikafariha025@gmail.com**
 
