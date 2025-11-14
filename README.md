@@ -19,4 +19,4 @@ Databases: MySQL, MONGODB, SQLITE
 Current projects: MediAI which combines AI and backend development where I built a Flask-based backend that integrates ML model to analyze patient medical reports automatically. The system also used NLP techniques NER to extract medical terms from uploaded reports, and a classification model trained on health datasets to predict possible disease categories.
 
 - ⚡ Fun fact: I'm a huge fan of Gossip Girls and can quote every line from it. 
-![](https://komarev.com/ghpvc/?username=AnikaFariha&color=pink)
+![](https://komarev.com/ghpvc/?username=AnikaFariha&color=blue)
