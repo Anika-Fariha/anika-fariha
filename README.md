@@ -5,7 +5,7 @@ I’m a graduate CSE student at BRAC University, passionate about building impac
 - Neuromorphic Computing
 - Computer Vision
 - Medical Imaging
-- 
+
 **Feel free to reach out to me for research queries or collaborations at anikafariha025@gmail.com**
   
 **I am also very passionate about Software Quality Assurance & Testing (Manual & Automation).** 
