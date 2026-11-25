@@ -10,7 +10,19 @@ I’m a graduate CSE student at BRAC University, passionate about building impac
   
 **I am also very passionate about Software Quality Assurance & Testing (Manual & Automation).** 
 
-[![The Work, The Journey, The Growth](https://img.shields.io/badge/🚀_THE_WORK._THE_JOURNEY._THE_GROWTH-TAKE_A_LOOK-ff69b4?style=for-the-badge)](https://anika-fariha.github.io/Portfolio/)
+
+<div align="center">
+
+### ✦ a little corner of my world ✦
+
+<a href="https://anika-fariha.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/☁️_Anika's_Portfolio-Explore_My_World-DEC9F5?style=for-the-badge&labelColor=F7F0FF" />
+</a>
+
+<p><i>Ideas, experiences, little discoveries & everything in between.</i></p>
+
+</div>
+
 
 [![QA Portfolio](https://img.shields.io/badge/QA%20Portfolio-Click%20Here-ff1493?style=for-the-badge)](https://anika-fariha.github.io/QA-Portfolio/)
 
