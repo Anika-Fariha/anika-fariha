@@ -7,8 +7,7 @@ I’m a graduate CSE student at BRAC University, passionate about building impac
 - Medical Imaging
 
 **Feel free to reach out to me for research queries or collaborations at anikafariha025@gmail.com**
-  
-**I am also very passionate about Software Quality Assurance & Testing (Manual & Automation).** 
+
 
 
 <div align="center">
@@ -34,7 +33,9 @@ Frameworks & Tools: MVC, MERN Stack, GIT, Docker, Linux
 Databases: MySQL, MONGODB, SQLITE
 
 
-Currently working as a Junior Software Business Analyst at Appinion BD  
+Currently working as a Junior Software Business Analyst at Appinion BD.
+
+**I am also very passionate about Software Quality Assurance & Testing (Manual & Automation).** 
 
 [![QA Portfolio](https://img.shields.io/badge/QA%20Portfolio-Click%20Here-ff1493?style=for-the-badge)](https://anika-fariha.github.io/QA-Portfolio/)
 
