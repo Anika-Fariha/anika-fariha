@@ -19,12 +19,9 @@ I’m a graduate CSE student at BRAC University, passionate about building impac
   <img src="https://img.shields.io/badge/☁️_Anika's_Portfolio-Explore_My_World-DEC9F5?style=for-the-badge&labelColor=F7F0FF" />
 </a>
 
-<p><i>Ideas, experiences, little discoveries & everything in between.</i></p>
+<p><i>Ideas, little discoveries & everything in between.</i></p>
 
 </div>
-
-
-[![QA Portfolio](https://img.shields.io/badge/QA%20Portfolio-Click%20Here-ff1493?style=for-the-badge)](https://anika-fariha.github.io/QA-Portfolio/)
 
 
 
@@ -36,7 +33,11 @@ Frameworks & Tools: MVC, MERN Stack, GIT, Docker, Linux
 
 Databases: MySQL, MONGODB, SQLITE
 
-Current projects: MediAI which combines AI and backend development where I built a Flask-based backend that integrates ML model to analyze patient medical reports automatically. The system also used NLP techniques NER to extract medical terms from uploaded reports, and a classification model trained on health datasets to predict possible disease categories.
+
+Currently working as a Junior Software Business Analyst at Appinion BD  
+
+[![QA Portfolio](https://img.shields.io/badge/QA%20Portfolio-Click%20Here-ff1493?style=for-the-badge)](https://anika-fariha.github.io/QA-Portfolio/)
+
 
 - ⚡ Fun fact: I'm a huge fan of Gossip Girls and can quote every line from it. 
 
